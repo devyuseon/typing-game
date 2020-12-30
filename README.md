@@ -19,3 +19,5 @@
     - 단어 맞추면 점수 +10
     - 단어가 바닥으로 떨어지면 생명 -1
     - 생명이 0이되면 게임 종료 (게임종료 / 다시시작 선택)
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/67352902/103322049-e9475400-4a7f-11eb-8329-a114a0b43de4.gif)
